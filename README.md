@@ -2,35 +2,37 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dakh-edu-LMS-Portal&fontSize=50&animation=fadeIn" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Welcome+to+Dakh-edu-LMS-Portal;A+Next-Gen+Learning+Management+System;Interactive+Courses+%26+Assessments;Powered+by+AI+%26+MERN+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Welcome+to+Dakh-edu-LMS-Portal;A+Next-Gen+Learning+Management+System;Interactive+Courses+%26+Assessments;Powered+by+AI+%26+MERN+Stack" alt="Typing SVG" /></a>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="100" height="100" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="100" height="100" />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="100" height="100" />
-
+<br/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Animated illustration" />
 </div>
 
 ## ✨ Overview
 **Dakh-edu-LMS-Portal** is a cutting-edge Learning Management System that seamlessly connects instructors and students. Equipped with advanced AI capabilities, the platform provides an interactive, accessible, and fast-paced modern educational environment.
 
 <p align="center">
-  <img src="https://github.com/7o63x/7o63x/blob/main/assets/line-animation.gif?raw=true" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 🚀 Tech Stack
 
-### Frontend
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="25" height="25" /> **React 19 & Vite** 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" alt="Palette" width="25" height="25" /> **Tailwind CSS v4** 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="Brain" width="25" height="25" /> **Redux Toolkit** 
+### Frontend & UI
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux,js" alt="Frontend Tech Stack" />
+  </a>
+</p>
 
-### Backend
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> **Node.js & Express** 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Green%20Check%20Mark.png" alt="Database" width="25" height="25" /> **MongoDB & Mongoose** 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="AI" width="25" height="25" /> **Google Generative AI (Gemini API)** 
+### Backend & Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" alt="Backend Tech Stack" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github.com/7o63x/7o63x/blob/main/assets/line-animation.gif?raw=true" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## 🔥 Features List
@@ -42,7 +44,7 @@
 - 🏷 **Bookmarking & Note Taking**: Built-in specialized features for maximum knowledge retention.
 
 <p align="center">
-  <img src="https://github.com/7o63x/7o63x/blob/main/assets/line-animation.gif?raw=true" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
 ## ⚙️ Getting Started
