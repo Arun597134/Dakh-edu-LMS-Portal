@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "69d23e4f92dd46f69cf4105e",
+    "title": "How to create a Website ",
+    "description": "in this u will learn about how to create a web",
+    "domain": "Web Development",
+    "thumbnail": "",
+    "instructor": "69d23637a1fefa2f2edb4bb6",
+    "enrollmentCount": 1,
+    "sessions": [
+      {
+        "title": "Full stack web development ",
+        "description": "Full stack web development Basics ",
+        "videoUrl": "https://www.youtube.com/watch?v=5QzzeYHApV0",
+        "duration": 4,
+        "_id": "69d258710c8152faa1f301f0"
+      }
+    ],
+    "createdAt": "2026-04-05T10:49:51.603Z",
+    "updatedAt": "2026-04-05T12:41:21.179Z",
+    "__v": 1
+  }
+]
